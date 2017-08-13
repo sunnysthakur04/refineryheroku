@@ -62,3 +62,6 @@ gem 'fog'
 
 # Postgres support (added for Heroku)
 gem 'pg'
+
+#add the Twelve-Factor app gem
+gem 'rails_12factor', group: :production
